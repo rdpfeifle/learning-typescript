@@ -49,5 +49,7 @@ console.log(`The total is ${total}`);
 console.log();
 
 console.log(
-  `The product you are buying is ${productName}, your shipping address is ${shippingAddress}. The price of the product before taxes is $${product.price}, the actual tax total is $${taxTotal}, shipping cost is $${shipping} and total amount of your purchase is $${total}.`
+  `The product you are buying is ${productName}, your shipping address is ${shippingAddress}. 
+  The price of the product before taxes is $${product.price}, the actual tax total is $${taxTotal}, 
+  shipping cost is $${shipping} and total amount of your purchase is $${total}.`
 );
